@@ -10,5 +10,5 @@
 Create a new environment
 
 ...
-conda create -p braintumor python==3.9 -y
+conda create -p companysalesforecasting python==3.9 -y
 ...
